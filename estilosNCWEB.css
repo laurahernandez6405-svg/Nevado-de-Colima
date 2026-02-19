@@ -12,6 +12,12 @@ header {
   text-align: center;
   padding: 20px 0;
   }
+iframe {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
 
 header h1 {
   color: #00FFF4;
@@ -98,5 +104,6 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
 
 
