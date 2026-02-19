@@ -12,12 +12,15 @@ header {
   text-align: center;
   padding: 20px 0;
   }
+/* Video responsivo */
 iframe {
-  max-width: 100%;
-  height: auto;
+  width: 100%;    
+  max-width: 560px;  
+  aspect-ratio: 16 / 9; 
   display: block;
-  margin: 20px auto;
+  margin: 20px auto; 
 }
+
 
 header h1 {
   color: #00FFF4;
@@ -104,6 +107,7 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
 
 
 
