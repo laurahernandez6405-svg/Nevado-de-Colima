@@ -39,7 +39,7 @@ nav {
   margin-top: 10px;
   display: flex;
   flex-direction: column;
-  text-align: center;
+
 }
 
 nav a {
@@ -119,4 +119,5 @@ footer a:hover {
 }
 
 }
+
 
