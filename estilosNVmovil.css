@@ -41,7 +41,20 @@ nav {
   flex-direction: column;
 
 }
+nav ul {
+  display: flex;        
+  list-style: none;         
+  justify-content: center; 
+  gap: 20px;                
+  padding: 0;
+  margin: 10px 0;
+}
 
+nav ul li a {
+  text-decoration: none;
+  font-weight: bold;       
+  color: #333;             
+}
 nav a {
   text-decoration: none;
   color: hsl(38, 97%, 37%);
@@ -119,5 +132,6 @@ footer a:hover {
 }
 
 }
+
 
 
