@@ -21,7 +21,11 @@ iframe {
   margin: 20px auto; 
 }
 
-
+ol {
+  font-size: 27px; 
+  line-height: 1.4;
+  margin-left: 40px;
+}
 header h1 {
   color: #00FFF4;
   font-size: 6vw;
@@ -116,6 +120,7 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
 
 
 
