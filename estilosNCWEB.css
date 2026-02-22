@@ -21,16 +21,7 @@ iframe {
   margin: 20px auto; 
 }
 
-ol {
-  font-size: 27px; 
-  line-height: 1.6;
-  color: orange;
-  margin-left: 80px;   
-  padding: 10px;
-ol li {
-  margin-bottom: 12px;
-  font-family: Verdana, sans-serif;
-}
+
 header h1 {
   color: #00FFF4;
   font-size: 6vw;
@@ -124,6 +115,16 @@ footer a {
 
 footer a:hover {
   text-decoration: underline;
+}
+ol {
+  font-size: 27px; 
+  line-height: 1.6;
+  color: brown;
+  margin-left: 80px;   
+  padding: 10px;
+ol li {
+  margin-bottom: 12px;
+  font-family: Verdana, sans-serif;
 }
 
 
