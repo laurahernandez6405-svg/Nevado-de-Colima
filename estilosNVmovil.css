@@ -81,6 +81,7 @@ h2 {
 
 /* IMAGEN */
 .img {
+  box-sizing: border-box;
   border-radius: 20px;
   max-width: 100%;
   border: 5px solid hsl(44, 95%, 15%);
@@ -133,6 +134,7 @@ footer a:hover {
 }
 
 }
+
 
 
 
