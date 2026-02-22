@@ -32,6 +32,20 @@ header h1 {
 nav {
   margin-top: 10px;
 }
+nav ul {
+  display: flex;            /* Los pone uno al lado del otro */
+  list-style: none;         /* Quita los puntos */
+  justify-content: center;  /* Centra el menú horizontalmente */
+  gap: 20px;                /* Espacio entre cada link */
+  padding: 0;
+  margin: 10px 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-weight: bold;        /* Corregido: weight */
+  color: #333;              /* Cambia al color de tu diseño */
+}
 
 nav a {
   text-decoration: none;
@@ -107,6 +121,7 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
 
 
 
