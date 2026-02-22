@@ -23,8 +23,13 @@ iframe {
 
 ol {
   font-size: 27px; 
-  line-height: 1.4;
-  margin-left: 40px;
+  line-height: 1.6;
+  color: #333;
+  margin-left: 80px;   
+  padding: 10px;
+ol li {
+  margin-bottom: 12px;
+  font-family: Verdana, sans-serif;
 }
 header h1 {
   color: #00FFF4;
@@ -120,6 +125,7 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
 
 
 
