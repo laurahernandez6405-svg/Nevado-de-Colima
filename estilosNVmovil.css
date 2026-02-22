@@ -37,6 +37,9 @@ header h1 {
 }
 nav {
   margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
 }
 
 nav a {
@@ -47,6 +50,8 @@ nav a {
 
 nav a:hover {
   color: hsl(60, 100%, 50%);
+   padding: 10px;
+  display: block;
 }
 
 section {
@@ -114,3 +119,4 @@ footer a:hover {
 }
 
 }
+
