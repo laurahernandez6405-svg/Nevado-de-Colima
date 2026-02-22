@@ -73,7 +73,6 @@ section {
   overflow: auto;
  }
 
-}
 h2 {
   background-color: hwb(35 80% 1%);
   color: hsl(50, 95%, 17%);
@@ -149,6 +148,7 @@ ol {
     margin-bottom: 8px;
   }
 }
+
 
 
 
